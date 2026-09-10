@@ -66,8 +66,10 @@
 
 | | |
 |---|---|
-| ![Скріншот 1](screenshots/01.jpg) | ![Скріншот 2](screenshots/02.jpg) |
-| ![Скріншот 3](screenshots/03.jpg) | ![Скріншот 4](screenshots/04.jpg) |
+| ![Скріншот 1](screenshots/1.jpg) | ![Скріншот 2](screenshots/2.jpg) |
+| ![Скріншот 3](screenshots/3.jpg) | ![Скріншот 4](screenshots/4.jpg) |
+| ![Скріншот 3](screenshots/5.jpg) | ![Скріншот 4](screenshots/6.jpg) |
+| ![Скріншот 3](screenshots/7.jpg) |
 
 ## Подяка
 
